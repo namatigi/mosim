@@ -1,0 +1,2 @@
+# mosim
+xmpp application
